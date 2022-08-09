@@ -27,7 +27,7 @@ support @Lvx2_fx
 ABOUT = """
 •Name : Autofilter V3
 •Library : Pyrogram Asyncio 1.13.0
-•Owner : @Arj_un_kr
-•REPO : 
+•Owner   : [ARjuN](https://t.me/Arj_un_kr)
+•REPO    : [CLICK HERE](https://github.com/DalinMathew/AutoFilterBotV3)
 
 """
