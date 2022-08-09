@@ -11,16 +11,16 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
+Basic Commad ✨
 
 /start :- check am Alive
 
-Users
+How use mei 😹
 
 Join my Group and sent Scene pack or edit audio name 
 Then i will replay with files 
 Click on file and start me 🥲
-support @Lvx2_fx
+Any issues contact [ARjuN](https://t.me/Arj_un_kr)
 
 """
 
