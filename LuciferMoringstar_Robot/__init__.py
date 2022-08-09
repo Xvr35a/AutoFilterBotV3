@@ -15,27 +15,24 @@ Basic Commads
 
 /start :- check am Alive
 
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+Users
+
+Join my Group and sent Scene pack or edit audio name 
+Then i will replay with files 
+Click on file and start me 🥲
+support @Lvx2_fx
 
 """
 
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [LVX2 FX](
+https://t.me/+8VcsKBnbePExZjY1)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ REPO : [Click Me](https://te.legra.ph/file/da5042996b0cf4ca585cb.mp4)
 """
