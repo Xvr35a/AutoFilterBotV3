@@ -25,14 +25,9 @@ support @Lvx2_fx
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
-    
-➥ Creator : [LVX2 FX](
-https://t.me/+8VcsKBnbePExZjY1)
+•Name : Autofilter V3
+•Library : Pyrogram Asyncio 1.13.0
+•Owner : @Arj_un_kr
+•REPO : 
 
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ REPO : [Click Me](https://te.legra.ph/file/da5042996b0cf4ca585cb.mp4)
 """
