@@ -45,11 +45,22 @@ async def start(bot, message):
                 ident, file_id = message.text.split("_-_-_-_")
                 await bot.send_message(
                     chat_id=message.from_user.id,
-                    text="**Please Join My Updates Channel to use this Bot!**",
+                    text="**Hello {first}
+Join Our channel and Try again ☺️
+
+हमारे चैनल से जुड़ें और पुनः प्रयास करें
+
+ഞങ്ങളുടെ ചാനലിൽ ചേരുക, വീണ്ടും ശ്രമിക്കുക
+
+எங்கள் சேனலில் சேர்ந்து மீண்டும் முயற்சிக்கவும்
+
+మా ఛానెల్‌లో చేరి, మళ్లీ ప్రయత్నించండి
+
+Kindly Please join Channel**",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("📢 Join Updates Channel 📢", url=invite_link.invite_link)
+                                InlineKeyboardButton("📢 Join Channel 📢", url=invite_link.invite_link)
                             ],
                             [
                                 InlineKeyboardButton("🔄 Try Again", callback_data=f"checksub#{file_id}")
@@ -99,11 +110,22 @@ async def start(bot, message):
         invite_link = await bot.create_chat_invite_link(int(AUTH_CHANNEL))
         await bot.send_message(
             chat_id=message.from_user.id,
-            text="**Please Join My Updates Channel to use this Bot!**",
+            text="**Hello {first}
+Join Our channel and Try again ☺️
+
+हमारे चैनल से जुड़ें और पुनः प्रयास करें
+
+ഞങ്ങളുടെ ചാനലിൽ ചേരുക, വീണ്ടും ശ്രമിക്കുക
+
+எங்கள் சேனலில் சேர்ந்து மீண்டும் முயற்சிக்கவும்
+
+మా ఛానెల్‌లో చేరి, మళ్లీ ప్రయత్నించండి
+
+Kindly Please join Channel**",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("📢 Join Updates Channel 📢", url=invite_link.invite_link)
+                        InlineKeyboardButton("📢 Join Channel 📢", url=invite_link.invite_link)
                     ]
                 ]
             )
@@ -115,7 +137,7 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("LVX2 FX", url=invite_link.invite_link)
+                InlineKeyboardButton("SCENE PACK", url=f'{TUTORIAL}')
                 ],[
                 InlineKeyboardButton("Help", callback_data="help"),
                 InlineKeyboardButton("About", callback_data="about")
